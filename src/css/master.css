@@ -2,8 +2,7 @@
 
 @layer base {
     .back-img-phone {
-        /* background-image: url(../img/678a1682d463254a5d651549_Group_20127263.png); */
-        background-image: url(../img/679d91c53655dbb3f70b9d07_KM_Thumbnails.png);
+        background-image: url(../img/phone.png);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -11,7 +10,7 @@
 
     @media (min-width: 768px) {
         .back-img-tablet {
-            background-image: url(../img/679d91c53655dbb3f70b9d07_KM_Thumbnails.png);
+            background-image: url(../img/678a1682d463254a5d651549_Group_20127263.png);
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
